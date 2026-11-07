@@ -1,0 +1,37 @@
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.bak
+*.orig
+*.rej
+*.swp
+*~
+
+# PowerShell transcripts
+PowerShell_transcript.*.txt
+
+# Build and packaging output
+out/
+dist/
+build/
+*.zip
+*.7z
+*.nupkg
+
+# Editor and IDE state
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Local test artifacts
+.ntx-temp/
+test-results/
+
+# Operating system metadata
+Thumbs.db
+desktop.ini
+.DS_Store
